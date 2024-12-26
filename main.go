@@ -39,7 +39,7 @@ type RequestRedis struct {
 	Age  string
 }
 
-var key = "app_agrz"
+var key = "uptoyou"
 
 // Handler
 func Insert(c echo.Context) error {
